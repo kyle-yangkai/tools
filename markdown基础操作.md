@@ -51,9 +51,9 @@
 ## 6.网址
 ```
 /*[网站说明](网站链接)*/
-[百度](www.baidu.com)
+[百度](https://www.baidu.com)
 ```
-[百度](www.baidu.com)
+[百度](https://www.baidu.com)
 ## 7.图片
 ```
 /*![图片说明](图片链接)*/
